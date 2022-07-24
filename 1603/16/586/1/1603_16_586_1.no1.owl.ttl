@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:586:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:586:0> ;
     skos:prefLabel "Khyber Pakhtunkhwa"@eng-Latn ;
-    wdata:q7200235 "PK2" ;
+    wdata:Q7200235 "PK2" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -49,7 +49,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:586:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:586:0> ;
     skos:prefLabel "Federal Capital Territory"@eng-Latn ;
-    wdata:q7200235 "PK5" ;
+    wdata:Q7200235 "PK5" ;
 .
 
 <urn:mdciii:1603:16:586:1:6>
@@ -60,7 +60,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:586:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:586:0> ;
     skos:prefLabel "Punjab"@eng-Latn ;
-    wdata:q7200235 "PK6" ;
+    wdata:Q7200235 "PK6" ;
 .
 
 <urn:mdciii:1603:16:586:1:7>
@@ -71,7 +71,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:586:1:7" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:586:0> ;
     skos:prefLabel "Balochistan"@eng-Latn ;
-    wdata:q7200235 "PK7" ;
+    wdata:Q7200235 "PK7" ;
 .
 
 <urn:mdciii:1603:16:586:1:8>
@@ -82,6 +82,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:586:1:8" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:586:0> ;
     skos:prefLabel "Sindh"@eng-Latn ;
-    wdata:q7200235 "PK8" ;
+    wdata:Q7200235 "PK8" ;
 .
 
